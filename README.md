@@ -27,7 +27,7 @@ leon-v1/
 ├── images/             # All project-related images and assets
 ├── index.html          # Main entry point of the project
 └── README.md           # Project documentation
-
+```
 ## 💻 Getting Started
 1.  **Clone the repository:**
     ```bash
