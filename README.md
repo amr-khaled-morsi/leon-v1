@@ -1,16 +1,3 @@
-## 💻 Getting Started
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/amr-khaled-morsi/leon-v1.git](https://github.com/amr-khaled-morsi/leon-v1.git)
-    ```
-2.  **Open the project:**
-    Navigate to the project folder and open `index.html` in your preferred web browser.
-
-## 📄 License
-This project was created for educational purposes as part of a front-end development journey. Feel free to use it for inspiration or as a base for your own learningBased on the visual layout of your project, here is a polished and professional **README.md** tailored specifically for the Leon Agency template.
-
----
-
 # Leon Agency – Minimal Creative Template
 
 **Leon** is a modern, minimal, and fully responsive web template designed for creative agencies. It features a clean aesthetic with a focus on typography and white space, built using semantic HTML5 and modern CSS3 techniques.
@@ -41,15 +28,15 @@ leon-v1/
 ├── index.html          # Main entry point of the project
 └── README.md           # Project documentation
 
-💻 Getting Started
-Clone the repository:
+## 💻 Getting Started
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/amr-khaled-morsi/leon-v1.git](https://github.com/amr-khaled-morsi/leon-v1.git)
+    ```
+2.  **Open the project:**
+    Navigate to the project folder and open `index.html` in your preferred web browser.
 
-Bash
-git clone [https://github.com/amr-khaled-morsi/leon-v1.git](https://github.com/amr-khaled-morsi/leon-v1.git)
-Open the project:
-Navigate to the project folder and open index.html in your preferred web browser.
-
-📄 License
+## 📄 License
 This project was created for educational purposes as part of a front-end development journey. Feel free to use it for inspiration or as a base for your own learning projects.
-
+---
 Developed by Amr Khaled
